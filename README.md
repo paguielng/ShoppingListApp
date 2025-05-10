@@ -1,17 +1,4 @@
 # ShoppingListApp
+`Shopy`Application-web cloud de listes de courses multiplateforme pour **Application mobile** **[ShoppingListApp](https://github.com/paguielng/ShoppingListApp/)**. Synchronisation en temps réel, accès depuis tous appareils.
 
-## Description
-ShoppingListApp est une application web de gestion de listes de courses. Elle permet de créer, gérer, partager et synchroniser des listes de manière simple.
-
-## Fonctionnalités
-- Gestion de listes et d'articles.
-- Catégorisation des produits.
-- Partage avec d'autres utilisateurs.
-- Synchronisation multi-appareils.
-- Suivi des dépenses estimées.
-
-## Technologies
-- Frontend : React Native
-- Backend : Node.js avec Express
-- Base de données : Firebase Firestore
-
+![just-the-basics](https://github.com/paguielng/ShoppingListCloud/blob/main/images/shopplistapp.jpg)
