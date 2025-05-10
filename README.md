@@ -18,7 +18,6 @@ ShoppingListApp est une application web de gestion de listes de courses. Elle pe
 ## Installation
 1. Clonez le dépôt :
    ```bash
-git clone https://github.com/username/ShoppingListApp.git
 npm install
 npm start
 
