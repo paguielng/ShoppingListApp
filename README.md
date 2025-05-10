@@ -20,4 +20,4 @@ ShoppingListApp est une application web de gestion de listes de courses. Elle pe
    ```bash
 npm install
 npm start
-
+```
