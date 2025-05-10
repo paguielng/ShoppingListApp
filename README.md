@@ -15,9 +15,3 @@ ShoppingListApp est une application web de gestion de listes de courses. Elle pe
 - Backend : Node.js avec Express
 - Base de données : Firebase Firestore
 
-## Installation
-1. Clonez le dépôt :
-   ```bash
-npm install
-npm start
-```
